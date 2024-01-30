@@ -1,0 +1,105 @@
+
+nav{
+    background-color: darkgreen;
+    font-size: 25px;
+}
+.fa-soccer-ball-o{
+    font-size: 40px;
+    color: whitesmoke;
+}
+.ball, nav{
+    display: inline;
+    font-family: "Josefin sans", sans-serif;
+}
+.btn{
+    font-size: 20px;
+    color: whitesmoke;
+}
+.banners {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    padding-top: 7%;
+}
+.hero {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, 280%);
+    font-family: "Josefin sans", sans-serif;
+    color: whitesmoke;
+    font-size: 78px;
+  }
+.newsletter{
+    padding-top: 5%;
+
+    text-align: center;
+    font-family: "Exo 2", sans-serif;
+    font-weight: bold;
+    font-size: 40px;
+}
+.newsletter1{
+    text-align: center;
+    width: 40%;
+    margin: 0 auto;
+}
+.social{
+    padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+color: whitesmoke;
+}
+.jerseyshop{
+width: 100%;
+padding-top: 20%;
+}
+.price{
+    font-family: "Exo 2", sans-serif;
+}
+.jerseyname{
+   display: block;
+    font-family: "Exo 2", sans-serif;
+    font-weight: bold;
+    padding-top: 3%;
+}
+#who{
+    font-size: 80px;
+    font-family: "Exo 2", sans-serif;
+    padding-top: 10%;
+}
+.essay{
+    font-size: 20px;
+    font-family: "Josefin sans", sans-serif;
+}
+.carthead, .total{
+    padding-top: 10px;
+   
+}
+.Addtocart{
+    width: 50%;
+    display: block;
+}
+
+
+
+.cartheader, .total{
+    font-size: 25px;
+    font-family: "Josefin sans", sans-serif;
+    font-weight: bold;
+ text-decoration: underline;
+}
+.total{
+    text-decoration: none;
+}
+.Quantity{
+    width: 50%;
+}
+.itempic{
+    width: 30%;
+    display: block;
+}
+.itemname{
+padding-top: 10%;
+}
